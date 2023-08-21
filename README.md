@@ -9,6 +9,12 @@
 3. 另外在一些环境中，`youdao_dict` 调用 urllib 库会有一些错误，非常影响使用  
 4. 移除了超大的 `YOUDAO` LOGO
 
+## Install
+
+``` bash
+sh install.sh
+```
+
 ## Usage
 
 英译中
